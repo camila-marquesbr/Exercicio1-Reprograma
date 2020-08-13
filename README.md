@@ -2,7 +2,7 @@
 ## Tema : Frameworks e Bicliotecas
 
 
-<p align="center"> <img src=" https://github.com/camila-marquesbr/Exercicio1-Reprograma/blob/master/img/Biblioteca%20e%20Frameworks.png "width="30%" height="50%" /></p>
+<p align="center"> <img src=" img/Biblioteca_Frameworks.png" width="30%" height="50%" /></p>
 
 
 ##<span style="color:red">Frameworks</span> 
