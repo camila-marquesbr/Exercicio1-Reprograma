@@ -2,7 +2,9 @@
 ## Tema : Frameworks e Bicliotecas
 
 
-<p align="center"> <img src=" img/Biblioteca_Frameworks.png" width="30%" height="50%" /></p>
+<p align="center"> 
+<img src="/img/Biblioteca_Frameworks.png" width="30%" height="50%"/>
+</p>
 
 
 ##<span style="color:red">Frameworks</span> 
