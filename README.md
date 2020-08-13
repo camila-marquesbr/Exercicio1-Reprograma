@@ -2,7 +2,7 @@
 ## Tema : Frameworks e Bicliotecas
 
 
-![tema](https://github.com/camila-marquesbr/Exercicio1-Reprograma/blob/master/img/Biblioteca%20e%20Frameworks.png) <br><br>
+<p align="center"> <img src=" https://github.com/camila-marquesbr/Exercicio1-Reprograma/blob/master/img/Biblioteca%20e%20Frameworks.png "width="30%" height="50%" /></p>
 
 
 ##<span style="color:red">Frameworks</span> 
@@ -18,6 +18,3 @@ Geralmente, um framework já vem com classes e funções para tarefas comuns, co
 
 Apesar de distintos, esses conceitos se somam e são importantíssimos para a construção de softwares, websites, aplicativos e outras soluções em TI. Entendendo cada um e a diferença entre eles é possível ter mais autoridade e conhecimento na hora de contratar um fornecedor de TI. <br>
 
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
