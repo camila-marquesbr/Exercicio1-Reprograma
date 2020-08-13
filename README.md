@@ -2,12 +2,12 @@
 ## Tema : Frameworks e Bicliotecas
 
 
-![tema](url) <br><br>
+![tema](https://github.com/camila-marquesbr/Exercicio1-Reprograma/blob/master/img/Biblioteca%20e%20Frameworks.png) <br><br>
 
 
 <font color = "red">Frameworks</font>
 
-![Framework](url) <br><br>
+![Framework](https://github.com/camila-marquesbr/Exercicio1-Reprograma/blob/master/img/Frameworks-1.jpeg) <br><br>
 
 Pode-se dizer que um framework é uma base sólida e padronizada para a construção de uma aplicação. Um framework pode ser construído utilizando-se diversas bibliotecas e integrado a APIs de forma a oferecer uma estrutura ideal para o desenvolvimento de um aplicativo mobile, por exemplo. <br>
 
