@@ -1,15 +1,17 @@
 # Exercicio1_Reprograma
-## Tema : Frameworks e Bicliotecas
+## Tema : Frameworks e Bicliotecas  <p align="center"> 
+<img src="/img/livro_estudando.png" width="20%" height="20%"/>
+</p>
 
-<br><br>
+<br>
 
 <p align="center"> 
 <img src="/img/Biblioteca_Frameworks.png" width="150%" height="150%"/>
 </p>
 
-<br><br><br>
+<br><br>
 
-##<span style="color:red">Frameworks</span> 
+<h2>Frameworks</h2>
 
 
 ![Framework](https://github.com/camila-marquesbr/Exercicio1-Reprograma/blob/master/img/Frameworks-1.jpeg) <br><br>
