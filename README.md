@@ -3,7 +3,7 @@
 
 
 <p align="center"> 
-<img src="/img/Biblioteca_Frameworks.png" width="30%" height="50%"/>
+<img src="/img/Biblioteca_Frameworks.png" width="150%" height="150%"/>
 </p>
 
 
