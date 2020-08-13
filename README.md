@@ -17,3 +17,7 @@ Utilizando um framework, o desenvolvedor pode se concentrar em desenvolver as fu
 Geralmente, um framework já vem com classes e funções para tarefas comuns, como leitura de arquivos e conexão a banco de dados. Um exemplo de um framework mobile é o Ionic, com crescente utilização pelo mercado. <br>
 
 Apesar de distintos, esses conceitos se somam e são importantíssimos para a construção de softwares, websites, aplicativos e outras soluções em TI. Entendendo cada um e a diferença entre eles é possível ter mais autoridade e conhecimento na hora de contratar um fornecedor de TI. <br>
+
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
