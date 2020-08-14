@@ -67,8 +67,7 @@ Em contrapartida no Angular todas essas funcionalidades já vêm inclusas. Há u
 
 <p align="center">
 <img src="/img/Diferença3.PNG"/>
-</p><br>
-
+</p>
 Já temos uma estrutura. É como se no framework nós precisássemos preencher os campos que ele pede, é ele quem está no controle de tudo.
 
 ![duvidas_resolvidas](https://socialwave-production.s3-sa-east-1.amazonaws.com/feeds/img_headers/000/026/104/medium/gif-duvida-3.gif?1541792702)
