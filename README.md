@@ -2,7 +2,7 @@
 <h2>Tema:Frameworks e Bicliotecas <img src="/img/livro_estudando.jpg" width="10%" height="10%"/>
 </h2>
 
-<br><br>
+<br>
 
 <h2>O que são os frameworks?</h2>
 
