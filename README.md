@@ -60,13 +60,13 @@ Por isso podemos diferenciar React de Angular. Se acaso você já usou os dois v
 No React nós temos basicamente funções para a criação de componentes e criação de estados. Estamos no controle o tempo todo, nós chamamos as funções do React, podemos decidir qual será a estrutura da nossa aplicação e o fluxo com o qual ela funciona. Se acaso a gente precisar de funcionalidades de roteamento, animações, internacionalização, etc, precisaremos buscar bibliotecas para isso.<br>
 
 <p align="center">
-<img src="/img/Framework_Diferença1.PNG"/>
+<img src="/img/Diferença1.PNG"/>
 </p><br>
 
 Em contrapartida no Angular todas essas funcionalidades já vêm inclusas. Há uma estrutura que devemos seguir (componentes, serviços, pipes, rotas, módulos), e o Angular é quem vai chamar o nosso código seguindo seu próprio fluxo. Essa característica de já ter uma estrutura é o principal diferencial entre um framework e uma biblioteca. Você pode notar que em nenhum momento nós chamamos alguma função como Angular.nomeFuncao(). Eventualmente, caso queira fazer algo num fluxo ou estrutura diferente, o Angular não vai entender e você terá um erro.
 
 <p align="center">
-<img src="/img/Framework_Diferença2.PNG"/>
+<img src="/img/Diferença2.PNG"/>
 </p><br>
 
 Já temos uma estrutura. É como se no framework nós precisássemos preencher os campos que ele pede, é ele quem está no controle de tudo.
