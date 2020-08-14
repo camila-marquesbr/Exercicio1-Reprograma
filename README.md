@@ -6,7 +6,9 @@
 
 <h2>O que são os frameworks?</h2>
 
-![Framework](https://github.com/camila-marquesbr/Exercicio1-Reprograma/blob/master/img/Frameworks-1.jpeg) <br><br>
+<p align="center">
+<img src="/img/Frameworks-1.jpeg"width="120%" height="120%" />
+</p><br><br>
 
 Pode-se dizer que um framework é uma base sólida e padronizada para a construção de uma aplicação. Um framework pode ser construído utilizando-se diversas bibliotecas e integrado a APIs de forma a oferecer uma estrutura ideal para o desenvolvimento de um aplicativo mobile, por exemplo. <br>
 
