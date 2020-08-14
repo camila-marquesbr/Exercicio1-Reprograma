@@ -17,14 +17,14 @@ Geralmente, um framework já vem com classes e funções para tarefas comuns, co
 
 Apesar de distintos, esses conceitos se somam e são importantíssimos para a construção de softwares, websites, aplicativos e outras soluções em TI. Entendendo cada um e a diferença entre eles é possível ter mais autoridade e conhecimento na hora de contratar um fornecedor de TI. <br>
 
-Exemplos de Frameworks 
-Java – Hibernate e Spring
-Ruby – Ruby on Rails
-JavaScript – AngularJS
-Python – Django
-PHP – Zend e Laravel
-C# – ASP .NET
-CSS – Bootstrap
+Exemplos de Frameworks <br>
+Java – Hibernate e Spring<br>
+Ruby – Ruby on Rails<br>
+JavaScript – AngularJS<br>
+Python – Django<br>
+PHP – Zend e Laravel<br>
+C# – ASP .NET<br>
+CSS – Bootstrap<br>
 
 <h2>E as bibliotecas, o que são as bibliotecas?</h2>
 
@@ -40,12 +40,12 @@ A príncipio podem parecer funções sem conexão, mas note que estamos falando 
 
 Em conclusão, podemos dizer que uma biblioteca é uma coleção de códigos voltados a resolver um determinado tipo de problema.<br>
 
-Exemplos de Bibliotecas JavaScript
-Moment.js - Biblioteca para converter, validar, manipular e exibir datas e horários
-Chart.js - Biblioteca para a criação de gráficos
-Voca - Biblioteca para trabalhar com Strings
-mo.js - Biblioteca para criar animações incríveis com SVG. 
-React - Biblioteca para criar interfaces de usuário.
+Exemplos de Bibliotecas JavaScript<br>
+Moment.js - Biblioteca para converter, validar, manipular e exibir datas e horários<br>
+Chart.js - Biblioteca para a criação de gráficos<br>
+Voca - Biblioteca para trabalhar com Strings<br>
+mo.js - Biblioteca para criar animações incríveis com SVG. <br>
+React - Biblioteca para criar interfaces de usuário.<br>
 
 <h2>Mas então, qual a diferença entre Framework e biblioteca? :raising_hand: </h2>
 
@@ -63,7 +63,7 @@ No React nós temos basicamente funções para a criação de componentes e cria
 <img src="/img/Diferença1.PNG"/>
 </p><br>
 
-Em contrapartida no Angular todas essas funcionalidades já vêm inclusas. Há uma estrutura que devemos seguir (componentes, serviços, pipes, rotas, módulos), e o Angular é quem vai chamar o nosso código seguindo seu próprio fluxo. Essa característica de já ter uma estrutura é o principal diferencial entre um framework e uma biblioteca. Você pode notar que em nenhum momento nós chamamos alguma função como Angular.nomeFuncao(). Eventualmente, caso queira fazer algo num fluxo ou estrutura diferente, o Angular não vai entender e você terá um erro.
+Em contrapartida no Angular todas essas funcionalidades já vêm inclusas. Há uma estrutura que devemos seguir (componentes, serviços, pipes, rotas, módulos), e o Angular é quem vai chamar o nosso código seguindo seu próprio fluxo. Essa característica de já ter uma estrutura é o principal diferencial entre um framework e uma biblioteca. Você pode notar que em nenhum momento nós chamamos alguma função como Angular.nomeFuncao(). Eventualmente, caso queira fazer algo num fluxo ou estrutura diferente, o Angular não vai entender e você terá um erro. <br>
 
 <p align="center">
 <img src="/img/Diferença2.PNG"/>
