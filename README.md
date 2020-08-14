@@ -1,6 +1,6 @@
 # Exercicio1_Reprograma
-<h3> Tema:Frameworks e Bicliotecas <img src="/img/livro_estudando.jpg" width="10%" height="10%" align="right"/>
-</h3>
+<h2>Tema:Frameworks e Bicliotecas <img src="/img/livro_estudando.jpg" width="20%" height="20%" align="right"/>
+</h2>
 
 <p align="center"> 
 <img src="/img/Biblioteca_Frameworks.png" width="150%" height="150%"/>
