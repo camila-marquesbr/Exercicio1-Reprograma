@@ -4,7 +4,7 @@
 
 <br><br>
 
-<h2>O que são os frameworks:interrobang:</h2>
+<h2>O que são os frameworks?</h2>
 
 <p align="center">
 <img src="/img/Frameworks-1.jpeg"width="120%" height="120%" />
@@ -26,7 +26,7 @@ Exemplos de Frameworks <br>
 ✦ C# – ASP .NET<br>
 ✦ CSS – Bootstrap<br>
 
-<h2>E as bibliotecas, o que são as bibliotecas:interrobang:</h2>
+<h2>E as bibliotecas, o que são as bibliotecas?</h2>
 
 <p align="center">
 <img src="/img/Library.jpg"/>
