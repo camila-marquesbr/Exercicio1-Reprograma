@@ -1,9 +1,7 @@
 # Exercicio1_Reprograma
-<h2 Tema : Frameworks e Bicliotecas > 
-<img src="/img/livro_estudando.jpg" width="20%" height="20%" align="right"/>
+<h2 Tema : Frameworks e Bicliotecas> 
+<img src="/img/livro_estudando.jpg" width="20%" height="20%" align="center"/>
 </h2>
-
-<br>
 
 <p align="center"> 
 <img src="/img/Biblioteca_Frameworks.png" width="150%" height="150%"/>
